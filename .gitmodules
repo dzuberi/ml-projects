@@ -1,0 +1,12 @@
+[submodule "randomized_optimization"]
+	path = randomized_optimization
+	url = https://github.com/dzuberi/randomized_optimization
+[submodule "cs7641-assignment-1"]
+	path = cs7641-assignment-1
+	url = https://github.com/dzuberi/cs7641-assignment-1
+[submodule "assignment-3"]
+	path = assignment-3
+	url = https://github.com/dzuberi/assignment-3
+[submodule "assignment-4"]
+	path = assignment-4
+	url = https://github.com/dzuberi/assignment-4
